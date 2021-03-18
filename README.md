@@ -11,3 +11,5 @@
 - Cambiar el Makefile y el AutoCompiler.sh
 
 - Compilarlo abriendo el repo en la terminal y usando ./AutoCompiler.sh
+
+CC. to https://github.com/MarcosRigal
