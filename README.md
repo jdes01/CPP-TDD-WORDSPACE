@@ -12,4 +12,6 @@
 
 - Compilarlo abriendo el repo en la terminal y usando ./AutoCompiler.sh
 
+- Finalmente debes tener nombre.cpp, nombre.hpp y nombre_unittest.cc
+
 CC. to https://github.com/MarcosRigal
